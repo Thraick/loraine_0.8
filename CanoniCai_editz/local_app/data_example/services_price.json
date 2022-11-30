@@ -1,0 +1,34 @@
+[
+    {
+        "name": "buzzcut",
+        "price": "$1200"
+    },
+    {
+        "name": "taper",
+        "price": "$1300"
+    },
+    {
+        "name": "fade",
+        "price": "$2200"
+    },
+    {
+        "name": "bowlcut",
+        "price": "$1300"
+    },
+    {
+        "name": "mohawk",
+        "price": "$2300"
+    },
+    {
+        "name": "manbun",
+        "price": "$1300"
+    },
+    {
+        "name": "ponytail",
+        "price": "$1200"
+    },
+    {
+        "name": "slickback",
+        "price": "$1300"
+    }
+]

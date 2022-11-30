@@ -1,0 +1,22 @@
+[
+    {
+        "question": "what time do you open?",
+        "answer": "We open on Monday to Friday between 9 to 8 and 9 to 11 on Saturday"
+    },
+    {
+        "question": "What service do you provide",
+        "answer": "The only type of service we provide is professional barbering."
+    },
+    {
+        "question": "What type of payment do you accept",
+        "answer": "Our barbershops accept debit/credit cards and cash. Give us a call to find out about other types of payment"
+    },
+    {
+        "question": "What kind of hairstyle do you cut",
+        "answer": "The only type of cuts we do are buzzcut, manbun, fade, taper, slickback, ponytail, mohawk and bowlcut."
+    },
+    {
+        "question":"What if I make an appointment and I can’t make it?",
+        "answer":"Your appointment may be canceled up to two hours before your scheduled appointment time. We ask that cancel or reschedule as soon as possible."
+    }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "question": "I would like a mohawk on sunday at 1 pm.",
+    "value": ["mohawk", "sunday", "1 pm"],
+    "type": ["haircut_style", "dayofweek", "time"]
+  }
+]

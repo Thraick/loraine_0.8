@@ -1,0 +1,7174 @@
+[
+    {
+        "question": "I would like a mohawk at 1:00 pm",
+        "value": [
+            "mohawk",
+            "1:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a mohawk on monday at 1 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a mohawk at 1:00 pm on monday",
+        "value": [
+            "mohawk",
+            "1:00 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a mohawk. I would like to cut on monday at 1 O'clock",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a mohawk. I would like to cut on monday at 1 O'clock",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a mohawk. I would like to cut on monday at 1 O'clock",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a mohawk. My girlfriend really like that. Can we do it as soon as possible like monday at 1:00 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a mohawk. My girlfriend really like that. Can we do it as soon as possible like monday at 1:00 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a mohawk. My girlfriend really like that. Can we do it as soon as possible like monday at 1:00 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a mohawk. Can we do it at 1 O'clock on monday.",
+        "value": [
+            "mohawk",
+            "1 O'clock",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on monday around 1 O'clock in the morning. I just need a mohawk",
+        "value": [
+            "monday",
+            "1 O'clock",
+            "mohawk"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a mohawk. Same time as well, monday at 1 pm. If 1 pm is not available, i can do 3 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 pm",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to mohawk the side on monday. Can you create an appointment for me please. I am free in the morning so 1 pm to 2 pm can work for me",
+        "value": [
+            "mohawk",
+            "monday",
+            "morning",
+            "2 pm",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a mohawk before monday. Anytime in the afternoon like 1:00 pm is good",
+        "value": [
+            "mohawk",
+            "monday",
+            "afternoon",
+            "1:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week monday at 1 pm for me. I have to fix my mohawk and take a fade.",
+        "value": [
+            "monday",
+            "1 pm",
+            "mohawk",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  1 pm tomorrow. He will be taking the usual a mohawk",
+        "value": [
+            "1 pm",
+            "tomorrow",
+            "mohawk"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a mohawk. I am only available in the morning",
+        "value": [
+            "mohawk",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week monday the 10 i need mohawk. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "monday",
+            "mohawk",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "1 pm on monday is fine",
+        "value": [
+            "1 pm",
+            "monday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a mohawk at 1:00 pm on monday",
+        "value": [
+            "mohawk",
+            "1:00 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week monday at 1 pm for me. I want to take a fade and a mohawk.",
+        "value": [
+            "monday",
+            "1 pm",
+            "fade",
+            "mohawk"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a mohawk. I am only available in the morning on monday",
+        "value": [
+            "mohawk",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a mohawk at 1 pm on monday",
+        "value": [
+            "mohawk",
+            "1 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a mohawk on monday at 1 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  1 pm tomorrow. He will be taking the usual mohawk on monday",
+        "value": [
+            "1 pm",
+            "mohawk",
+            "monday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want mohawk. monday is a good day to cut my hair at 1 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is monday. I need a mohawk at 1 pm",
+        "value": [
+            "monday",
+            "mohawk",
+            "1 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free monday and i am looking for a haircut. I am thinking about a mohawk. The time i want to cut it is 1 pm",
+        "value": [
+            "monday",
+            "mohawk",
+            "1 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "monday is a good day to cut my hair. I want a mohawk at 1 pm",
+        "value": [
+            "monday",
+            "mohawk",
+            "1 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week monday i want to get a mohawk at 1 pm",
+        "value": [
+            "monday",
+            "mohawk",
+            "1 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On monday 13. I want to get a mohawk at 1 pm",
+        "value": [
+            "monday",
+            "mohawk",
+            "1 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a mohawk monday at 1 pm",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on monday at 1 pm for a mohawk",
+        "value": [
+            "monday",
+            "1 pm",
+            "mohawk"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "monday coming is when i will take a mohawk. The time i am free is 1 pm",
+        "value": [
+            "monday",
+            "mohawk",
+            "1 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "monday is a good day",
+        "value": [
+            "monday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a mohawk hairstyle",
+        "value": [
+            "mohawk"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on monday",
+        "value": [
+            "monday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "monday can work for me",
+        "value": [
+            "monday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a mohawk haircut",
+        "value": [
+            "mohawk"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a mohawk tomorrow at 1 pm. If it's not available next monday in the afternoon around 1",
+        "value": [
+            "mohawk",
+            "1 pm",
+            "monday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a mohawk or slickback. I can go for monday or tuesday around 1 in the morning",
+        "value": [
+            "mohawk",
+            "slickback",
+            "monday",
+            "tuesday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a mohawk, nothing too fancy. will tomorrow around 1 in the afternoon work",
+        "value": [
+            "mohawk",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a mohawk or a slickback. Anytime around 1 O'clock is fine on monday.",
+        "value": [
+            "mohawk",
+            "slickback",
+            "1 O'clock",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a mohawk on monday in the morning at 1 or 1 pm?",
+        "value": [
+            "mohawk",
+            "monday",
+            "morning",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a mohawk on monday. Can you create an appointment for me please. I am free in the morning so 1 pm to 2 pm can work for me",
+        "value": [
+            "mohawk",
+            "monday",
+            "1 pm",
+            "2 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I would like a slickback at 2:00 pm",
+        "value": [
+            "slickback",
+            "2:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a slickback on tuesday at 2 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a slickback at 2:00 pm on tuesday",
+        "value": [
+            "slickback",
+            "2:00 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a slickback. I would like to cut on tuesday at 2 O'clock",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a slickback. I would like to cut on tuesday at 2 O'clock",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a slickback. I would like to cut on tuesday at 2 O'clock",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a slickback. My girlfriend really like that. Can we do it as soon as possible like tuesday at 2:00 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a slickback. My girlfriend really like that. Can we do it as soon as possible like tuesday at 2:00 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a slickback. My girlfriend really like that. Can we do it as soon as possible like tuesday at 2:00 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a slickback. Can we do it at 2 O'clock on tuesday.",
+        "value": [
+            "slickback",
+            "2 O'clock",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on tuesday around 2 O'clock in the morning. I just need a slickback",
+        "value": [
+            "tuesday",
+            "2 O'clock",
+            "slickback"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a slickback. Same time as well, tuesday at 2 pm. If 2 pm is not available, i can do 2 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 pm",
+            "2 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to slickback the side on tuesday. Can you create an appointment for me please. I am free in the morning so 2 pm to 3 pm can work for me",
+        "value": [
+            "slickback",
+            "tuesday",
+            "morning",
+            "2 pm",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a slickback before tuesday. Anytime in the afternoon like 2:00 pm is good",
+        "value": [
+            "slickback",
+            "tuesday",
+            "afternoon",
+            "2:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week tuesday at 2 pm for me. I have to fix my slickback and take a taper.",
+        "value": [
+            "tuesday",
+            "2 pm",
+            "slickback",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  2 pm tomorrow. He will be taking the usual a slickback",
+        "value": [
+            "2 pm",
+            "tomorrow",
+            "slickback"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a slickback. I am only available in the morning",
+        "value": [
+            "slickback",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week tuesday the 10 i need slickback. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "tuesday",
+            "slickback",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "2 pm on tuesday is fine",
+        "value": [
+            "2 pm",
+            "tuesday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a slickback at 1:00 pm on tuesday",
+        "value": [
+            "slickback",
+            "1:00 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week tuesday at 2 pm for me. I want to take a taper and a slickback.",
+        "value": [
+            "tuesday",
+            "2 pm",
+            "taper",
+            "slickback"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a slickback. I am only available in the morning on tuesday",
+        "value": [
+            "slickback",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a slickback at 2 pm on tuesday",
+        "value": [
+            "slickback",
+            "2 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a slickback on tuesday at 2 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  2 pm tomorrow. He will be taking the usual slickback on tuesday",
+        "value": [
+            "2 pm",
+            "slickback",
+            "tuesday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want slickback. tuesday is a good day to cut my hair at 2 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is tuesday. I need a slickback at 2 pm",
+        "value": [
+            "tuesday",
+            "slickback",
+            "2 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free tuesday and i am looking for a haircut. I am thinking about a slickback. The time i want to cut it is 2 pm",
+        "value": [
+            "tuesday",
+            "slickback",
+            "2 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "tuesday is a good day to cut my hair. I want a slickback at 2 pm",
+        "value": [
+            "tuesday",
+            "slickback",
+            "2 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week tuesday i want to get a slickback at 2 pm",
+        "value": [
+            "tuesday",
+            "slickback",
+            "2 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On tuesday 13. I want to get a slickback at 2 pm",
+        "value": [
+            "tuesday",
+            "slickback",
+            "2 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a slickback tuesday at 2 pm",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on tuesday at 2 pm for a slickback",
+        "value": [
+            "tuesday",
+            "2 pm",
+            "slickback"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "tuesday coming is when i will take a slickback. The time i am free is 2 pm",
+        "value": [
+            "tuesday",
+            "slickback",
+            "2 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "tuesday is a good day",
+        "value": [
+            "tuesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a slickback hairstyle",
+        "value": [
+            "slickback"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on tuesday",
+        "value": [
+            "tuesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "tuesday can work for me",
+        "value": [
+            "tuesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a slickback haircut",
+        "value": [
+            "slickback"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a slickback tomorrow at 2 pm. If it's not available next tuesday in the afternoon around 2",
+        "value": [
+            "slickback",
+            "2 pm",
+            "tuesday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a slickback or slickback. I can go for tuesday or wednesday around 2 in the morning",
+        "value": [
+            "slickback",
+            "slickback",
+            "tuesday",
+            "wednesday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a slickback, nothing too fancy. will tomorrow around 2 in the afternoon work",
+        "value": [
+            "slickback",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a slickback or a manbun. Anytime around 2 O'clock is fine on tuesday.",
+        "value": [
+            "slickback",
+            "manbun",
+            "2 O'clock",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a slickback on tuesday in the morning at 2 or 3 pm?",
+        "value": [
+            "slickback",
+            "tuesday",
+            "morning",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a slickback on tuesday. Can you create an appointment for me please. I am free in the morning so 2 pm to 3 pm can work for me",
+        "value": [
+            "slickback",
+            "tuesday",
+            "2 pm",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I would like a manbun at 3:00 pm",
+        "value": [
+            "manbun",
+            "3:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a manbun on wednesday at 3 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a manbun at 3:00 pm on wednesday",
+        "value": [
+            "manbun",
+            "3:00 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a manbun. I would like to cut on wednesday at 3 O'clock",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a manbun. I would like to cut on wednesday at 3 O'clock",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a manbun. I would like to cut on wednesday at 3 O'clock",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a manbun. My girlfriend really like that. Can we do it as soon as possible like wednesday at 3:00 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a manbun. My girlfriend really like that. Can we do it as soon as possible like wednesday at 3:00 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a manbun. My girlfriend really like that. Can we do it as soon as possible like wednesday at 3:00 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a manbun. Can we do it at 3 O'clock on wednesday.",
+        "value": [
+            "manbun",
+            "3 O'clock",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on wednesday around 3 O'clock in the morning. I just need a manbun",
+        "value": [
+            "wednesday",
+            "3 O'clock",
+            "manbun"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a manbun. Same time as well, wednesday at 3 pm. If 3 pm is not available, i can do 3 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 pm",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a manbun before wednesday. Anytime in the afternoon like 3:00 pm is good",
+        "value": [
+            "manbun",
+            "wednesday",
+            "afternoon",
+            "3:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  3 pm tomorrow. He will be taking the usual a manbun",
+        "value": [
+            "3 pm",
+            "tomorrow",
+            "manbun"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a manbun. I am only available in the morning",
+        "value": [
+            "manbun",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week wednesday the 10 i need manbun. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "wednesday",
+            "manbun",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "3 pm on wednesday is fine",
+        "value": [
+            "3 pm",
+            "wednesday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a manbun at 3:00 pm on wednesday",
+        "value": [
+            "manbun",
+            "3:00 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week wednesday at 3 pm for me. I want to take a taper and a manbun.",
+        "value": [
+            "wednesday",
+            "3 pm",
+            "taper",
+            "manbun"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a manbun. I am only available in the morning on wednesday",
+        "value": [
+            "manbun",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a manbun at 3 pm on wednesday",
+        "value": [
+            "manbun",
+            "3 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a manbun on wednesday at 3 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  3 pm tomorrow. He will be taking the usual manbun on wednesday",
+        "value": [
+            "3 pm",
+            "manbun",
+            "wednesday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want manbun. wednesday is a good day to cut my hair at 3 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is wednesday. I need a manbun at 3 pm",
+        "value": [
+            "wednesday",
+            "manbun",
+            "3 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free wednesday and i am looking for a haircut. I am thinking about a manbun. The time i want to cut it is 3 pm",
+        "value": [
+            "wednesday",
+            "manbun",
+            "3 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "wednesday is a good day to cut my hair. I want a manbun at 3 pm",
+        "value": [
+            "wednesday",
+            "manbun",
+            "3 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week wednesday i want to get a manbun at 3 pm",
+        "value": [
+            "wednesday",
+            "manbun",
+            "3 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On wednesday 13. I want to get a manbun at 3 pm",
+        "value": [
+            "wednesday",
+            "manbun",
+            "3 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a manbun wednesday at 3 pm",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on wednesday at 3 pm for a manbun",
+        "value": [
+            "wednesday",
+            "3 pm",
+            "manbun"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "wednesday coming is when i will take a manbun. The time i am free is 3 pm",
+        "value": [
+            "wednesday",
+            "manbun",
+            "3 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "wednesday is a good day",
+        "value": [
+            "wednesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a manbun hairstyle",
+        "value": [
+            "manbun"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on wednesday",
+        "value": [
+            "wednesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "wednesday can work for me",
+        "value": [
+            "wednesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a manbun haircut",
+        "value": [
+            "manbun"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a manbun tomorrow at 3 pm. If it's not available next wednesday in the afternoon around 3",
+        "value": [
+            "manbun",
+            "3 pm",
+            "wednesday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a manbun or buzzcut. I can go for wednesday or thursday around 3 in the morning",
+        "value": [
+            "manbun",
+            "buzzcut",
+            "wednesday",
+            "thursday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a manbun, nothing too fancy. will tomorrow around 3 in the afternoon work",
+        "value": [
+            "manbun",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a manbun or a buzzcut. Anytime around 3 O'clock is fine on wednesday.",
+        "value": [
+            "manbun",
+            "buzzcut",
+            "3 O'clock",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a manbun on wednesday in the morning at 3 or 3 pm?",
+        "value": [
+            "manbun",
+            "wednesday",
+            "morning",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a manbun on wednesday. Can you create an appointment for me please. I am free in the morning so 3 pm to 3 pm can work for me",
+        "value": [
+            "manbun",
+            "wednesday",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to manbun the side on wednesday. Can you create an appointment for me please. I am free in the morning so 3 pm to 4 pm can work for me",
+        "value": [
+            "manbun",
+            "wednesday",
+            "morning",
+            "4 pm",
+            "3 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week wednesday at 3 pm for me. I have to fix my manbun and take a taper.",
+        "value": [
+            "wednesday",
+            "3 pm",
+            "manbun",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a manbun at 3:00 pm on wednesday",
+        "value": [
+            "manbun",
+            "3:00 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a buzzcut at 4:00 pm",
+        "value": [
+            "buzzcut",
+            "4:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a buzzcut on thursday at 4 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a buzzcut at 4:00 pm on thursday",
+        "value": [
+            "buzzcut",
+            "4:00 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a buzzcut. I would like to cut on thursday at 4 O'clock",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a buzzcut. I would like to cut on thursday at 4 O'clock",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a buzzcut. I would like to cut on thursday at 4 O'clock",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a buzzcut. My girlfriend really like that. Can we do it as soon as possible like thursday at 4:00 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a buzzcut. My girlfriend really like that. Can we do it as soon as possible like thursday at 4:00 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a buzzcut. My girlfriend really like that. Can we do it as soon as possible like thursday at 4:00 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a buzzcut. Can we do it at 4 O'clock on thursday.",
+        "value": [
+            "buzzcut",
+            "4 O'clock",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on thursday around 4 O'clock in the morning. I just need a buzzcut",
+        "value": [
+            "thursday",
+            "4 O'clock",
+            "buzzcut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a buzzcut. Same time as well, thursday at 4 pm. If 4 pm is not available, i can do 4 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 pm",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a buzzcut before thursday. Anytime in the afternoon like 4:00 pm is good",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "afternoon",
+            "4:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  4 pm tomorrow. He will be taking the usual a buzzcut",
+        "value": [
+            "4 pm",
+            "tomorrow",
+            "buzzcut"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a buzzcut. I am only available in the morning",
+        "value": [
+            "buzzcut",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week thursday the 4 i need buzzcut. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "thursday",
+            "buzzcut",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "4 pm on thursday is fine",
+        "value": [
+            "4 pm",
+            "thursday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a buzzcut at 4:00 pm on thursday",
+        "value": [
+            "buzzcut",
+            "4:00 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week thursday at 4 pm for me. I want to take a fade and a buzzcut.",
+        "value": [
+            "thursday",
+            "4 pm",
+            "fade",
+            "buzzcut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a buzzcut. I am only available in the morning on thursday",
+        "value": [
+            "buzzcut",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a buzzcut at 4 pm on thursday",
+        "value": [
+            "buzzcut",
+            "4 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a buzzcut on thursday at 4 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  4 pm tomorrow. He will be taking the usual buzzcut on thursday",
+        "value": [
+            "4 pm",
+            "buzzcut",
+            "thursday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want buzzcut. thursday is a good day to cut my hair at 4 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is thursday. I need a buzzcut at 4 pm",
+        "value": [
+            "thursday",
+            "buzzcut",
+            "4 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free thursday and i am looking for a haircut. I am thinking about a buzzcut. The time i want to cut it is 4 pm",
+        "value": [
+            "thursday",
+            "buzzcut",
+            "4 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "thursday is a good day to cut my hair. I want a buzzcut at 4 pm",
+        "value": [
+            "thursday",
+            "buzzcut",
+            "4 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week thursday i want to get a buzzcut at 4 pm",
+        "value": [
+            "thursday",
+            "buzzcut",
+            "4 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On thursday 13. I want to get a buzzcut at 4 pm",
+        "value": [
+            "thursday",
+            "buzzcut",
+            "4 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a buzzcut thursday at 4 pm",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on thursday at 4 pm for a buzzcut",
+        "value": [
+            "thursday",
+            "4 pm",
+            "buzzcut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "thursday coming is when i will take a buzzcut. The time i am free is 4 pm",
+        "value": [
+            "thursday",
+            "buzzcut",
+            "4 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "thursday is a good day",
+        "value": [
+            "thursday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a buzzcut hairstyle",
+        "value": [
+            "buzzcut"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on thursday",
+        "value": [
+            "thursday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "thursday can work for me",
+        "value": [
+            "thursday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a buzzcut haircut",
+        "value": [
+            "buzzcut"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a buzzcut tomorrow at 4 pm. If it's not available next thursday in the afternoon around 4",
+        "value": [
+            "buzzcut",
+            "4 pm",
+            "thursday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a buzzcut or ponytail. I can go for thursday or friday around 4 in the morning",
+        "value": [
+            "buzzcut",
+            "ponytail",
+            "thursday",
+            "friday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a buzzcut, nothing too fancy. will tomorrow around 4 in the afternoon work",
+        "value": [
+            "buzzcut",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a buzzcut or a ponytail. Anytime around 4 O'clock is fine on thursday.",
+        "value": [
+            "buzzcut",
+            "ponytail",
+            "4 O'clock",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a buzzcut on thursday in the morning at 4 or 4 pm?",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "morning",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a buzzcut on thursday. Can you create an appointment for me please. I am free in the morning so 4 pm to 5 pm can work for me",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "4 pm",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to buzzcut the side on thursday. Can you create an appointment for me please. I am free in the morning so 4 pm to 5 pm can work for me",
+        "value": [
+            "buzzcut",
+            "thursday",
+            "morning",
+            "5 pm",
+            "4 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week thursday at 4 pm for me. I have to fix my buzzcut and take a fade.",
+        "value": [
+            "thursday",
+            "4 pm",
+            "buzzcut",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a buzzcut at 4:00 pm on thursday",
+        "value": [
+            "buzzcut",
+            "4:00 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a ponytail at 5:00 pm",
+        "value": [
+            "ponytail",
+            "5:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a ponytail on friday at 5 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a ponytail at 5:00 pm on friday",
+        "value": [
+            "ponytail",
+            "5:00 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a ponytail. I would like to cut on friday at 5 O'clock",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a ponytail. I would like to cut on friday at 5 O'clock",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a ponytail. I would like to cut on friday at 5 O'clock",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a ponytail. My girlfriend really like that. Can we do it as soon as possible like friday at 5:00 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a ponytail. My girlfriend really like that. Can we do it as soon as possible like friday at 5:00 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a ponytail. My girlfriend really like that. Can we do it as soon as possible like friday at 5:00 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a ponytail. Can we do it at 5 O'clock on friday.",
+        "value": [
+            "ponytail",
+            "5 O'clock",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on friday around 5 O'clock in the morning. I just need a ponytail",
+        "value": [
+            "friday",
+            "5 O'clock",
+            "ponytail"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a ponytail. Same time as well, friday at 5 pm. If 5 pm is not available, i can do 5 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 pm",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a ponytail before friday. Anytime in the afternoon like 5:00 pm is good",
+        "value": [
+            "ponytail",
+            "friday",
+            "afternoon",
+            "5:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  5 pm tomorrow. He will be taking the usual a ponytail",
+        "value": [
+            "5 pm",
+            "tomorrow",
+            "ponytail"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a ponytail. I am only available in the morning",
+        "value": [
+            "ponytail",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week friday the 5 i need ponytail. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "friday",
+            "ponytail",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "5 pm on friday is fine",
+        "value": [
+            "5 pm",
+            "friday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a ponytail at 5:00 pm on friday",
+        "value": [
+            "ponytail",
+            "5:00 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week friday at 5 pm for me. I want to take a fade and a ponytail.",
+        "value": [
+            "friday",
+            "5 pm",
+            "fade",
+            "ponytail"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a ponytail. I am only available in the morning on friday",
+        "value": [
+            "ponytail",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a ponytail at 5 pm on friday",
+        "value": [
+            "ponytail",
+            "5 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a ponytail on friday at 5 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  5 pm tomorrow. He will be taking the usual ponytail on friday",
+        "value": [
+            "5 pm",
+            "ponytail",
+            "friday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want ponytail. friday is a good day to cut my hair at 5 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is friday. I need a ponytail at 5 pm",
+        "value": [
+            "friday",
+            "ponytail",
+            "5 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free friday and i am looking for a haircut. I am thinking about a ponytail. The time i want to cut it is 5 pm",
+        "value": [
+            "friday",
+            "ponytail",
+            "5 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "friday is a good day to cut my hair. I want a ponytail at 5 pm",
+        "value": [
+            "friday",
+            "ponytail",
+            "5 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week friday i want to get a ponytail at 5 pm",
+        "value": [
+            "friday",
+            "ponytail",
+            "5 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On friday 13. I want to get a ponytail at 5 pm",
+        "value": [
+            "friday",
+            "ponytail",
+            "5 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a ponytail friday at 5 pm",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on friday at 5 pm for a ponytail",
+        "value": [
+            "friday",
+            "5 pm",
+            "ponytail"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "friday coming is when i will take a ponytail. The time i am free is 5 pm",
+        "value": [
+            "friday",
+            "ponytail",
+            "5 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "friday is a good day",
+        "value": [
+            "friday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a ponytail hairstyle",
+        "value": [
+            "ponytail"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on friday",
+        "value": [
+            "friday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "friday can work for me",
+        "value": [
+            "friday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a ponytail haircut",
+        "value": [
+            "ponytail"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a ponytail tomorrow at 5 pm. If it's not available next friday in the afternoon around 5",
+        "value": [
+            "ponytail",
+            "5 pm",
+            "friday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a ponytail or sidepart. I can go for friday or saturday around 5 in the morning",
+        "value": [
+            "ponytail",
+            "sidepart",
+            "friday",
+            "saturday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a ponytail, nothing too fancy. will tomorrow around 5 in the afternoon work",
+        "value": [
+            "ponytail",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a ponytail or a sidepart. Anytime around 5 O'clock is fine on friday.",
+        "value": [
+            "ponytail",
+            "sidepart",
+            "5 O'clock",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a ponytail on friday in the morning at 5 or 5 pm?",
+        "value": [
+            "ponytail",
+            "friday",
+            "morning",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a ponytail on friday. Can you create an appointment for me please. I am free in the morning so 5 pm to 6 pm can work for me",
+        "value": [
+            "ponytail",
+            "friday",
+            "5 pm",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to ponytail the side on friday. Can you create an appointment for me please. I am free in the morning so 5 pm to 6 pm can work for me",
+        "value": [
+            "ponytail",
+            "friday",
+            "morning",
+            "6 pm",
+            "5 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week friday at 5 pm for me. I have to fix my ponytail and take a fade.",
+        "value": [
+            "friday",
+            "5 pm",
+            "ponytail",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a ponytail at 5:00 pm on friday",
+        "value": [
+            "ponytail",
+            "5:00 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a sidepart at 6:00 pm",
+        "value": [
+            "sidepart",
+            "6:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a sidepart on saturday at 6 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a sidepart at 6:00 pm on saturday",
+        "value": [
+            "sidepart",
+            "6:00 pm",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a sidepart. I would like to cut on saturday at 6 O'clock",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a sidepart. I would like to cut on saturday at 6 O'clock",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a sidepart. I would like to cut on saturday at 6 O'clock",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a sidepart. My girlfriend really like that. Can we do it as soon as possible like saturday at 6:00 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a sidepart. My girlfriend really like that. Can we do it as soon as possible like saturday at 6:00 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a sidepart. My girlfriend really like that. Can we do it as soon as possible like saturday at 6:00 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a sidepart. Can we do it at 6 O'clock on saturday.",
+        "value": [
+            "sidepart",
+            "6 O'clock",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on saturday around 6 O'clock in the morning. I just need a sidepart",
+        "value": [
+            "saturday",
+            "6 O'clock",
+            "sidepart"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a sidepart. Same time as well, saturday at 6 pm. If 6 pm is not available, i can do 6 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 pm",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a sidepart before saturday. Anytime in the afternoon like 6:00 pm is good",
+        "value": [
+            "sidepart",
+            "saturday",
+            "afternoon",
+            "6:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  6 pm tomorrow. He will be taking the usual a sidepart",
+        "value": [
+            "6 pm",
+            "tomorrow",
+            "sidepart"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a sidepart. I am only available in the morning",
+        "value": [
+            "sidepart",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week saturday the 6 i need sidepart. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "saturday",
+            "sidepart",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "6 pm on saturday is fine",
+        "value": [
+            "6 pm",
+            "saturday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a sidepart at 6:00 pm on saturday",
+        "value": [
+            "sidepart",
+            "6:00 pm",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week saturday at 6 pm for me. I want to take a fade and a sidepart.",
+        "value": [
+            "saturday",
+            "6 pm",
+            "fade",
+            "sidepart"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a sidepart. I am only available in the morning on saturday",
+        "value": [
+            "sidepart",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a sidepart at 6 pm on saturday",
+        "value": [
+            "sidepart",
+            "6 pm",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a sidepart on saturday at 6 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  6 pm tomorrow. He will be taking the usual sidepart on saturday",
+        "value": [
+            "6 pm",
+            "sidepart",
+            "saturday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want sidepart. saturday is a good day to cut my hair at 6 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is saturday. I need a sidepart at 6 pm",
+        "value": [
+            "saturday",
+            "sidepart",
+            "6 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free saturday and i am looking for a haircut. I am thinking about a sidepart. The time i want to cut it is 6 pm",
+        "value": [
+            "saturday",
+            "sidepart",
+            "6 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "saturday is a good day to cut my hair. I want a sidepart at 6 pm",
+        "value": [
+            "saturday",
+            "sidepart",
+            "6 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week saturday i want to get a sidepart at 6 pm",
+        "value": [
+            "saturday",
+            "sidepart",
+            "6 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On saturday 13. I want to get a sidepart at 6 pm",
+        "value": [
+            "saturday",
+            "sidepart",
+            "6 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a sidepart saturday at 6 pm",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on saturday at 6 pm for a sidepart",
+        "value": [
+            "saturday",
+            "6 pm",
+            "sidepart"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "saturday coming is when i will take a sidepart. The time i am free is 6 pm",
+        "value": [
+            "saturday",
+            "sidepart",
+            "6 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "saturday is a good day",
+        "value": [
+            "saturday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a sidepart hairstyle",
+        "value": [
+            "sidepart"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on saturday",
+        "value": [
+            "saturday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "saturday can work for me",
+        "value": [
+            "saturday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a sidepart haircut",
+        "value": [
+            "sidepart"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a sidepart tomorrow at 6 pm. If it's not available next saturday in the afternoon around 6",
+        "value": [
+            "sidepart",
+            "6 pm",
+            "saturday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a sidepart or bowlcut. I can go for saturday or sunday around 6 in the morning",
+        "value": [
+            "sidepart",
+            "bowlcut",
+            "saturday",
+            "sunday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a sidepart, nothing too fancy. will tomorrow around 6 in the afternoon work",
+        "value": [
+            "sidepart",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a sidepart or a bowlcut. Anytime around 6 O'clock is fine on saturday.",
+        "value": [
+            "sidepart",
+            "bowlcut",
+            "6 O'clock",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a sidepart on saturday in the morning at 6 or 6 pm?",
+        "value": [
+            "sidepart",
+            "saturday",
+            "morning",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a sidepart on saturday. Can you create an appointment for me please. I am free in the morning so 6 pm to 7 pm can work for me",
+        "value": [
+            "sidepart",
+            "saturday",
+            "6 pm",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to sidepart the side on saturday. Can you create an appointment for me please. I am free in the morning so 6 pm to 7 pm can work for me",
+        "value": [
+            "sidepart",
+            "saturday",
+            "morning",
+            "7 pm",
+            "6 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week saturday at 6 pm for me. I have to fix my sidepart and take a fade.",
+        "value": [
+            "saturday",
+            "6 pm",
+            "sidepart",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a sidepart at 6:00 pm on saturday",
+        "value": [
+            "sidepart",
+            "6:00 pm",
+            "saturday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a bowlcut at 7:00 pm",
+        "value": [
+            "bowlcut",
+            "7:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a bowlcut on sunday at 7 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a bowlcut at 7:00 pm on sunday",
+        "value": [
+            "bowlcut",
+            "7:00 pm",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a bowlcut. I would like to cut on sunday at 7 O'clock",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a bowlcut. I would like to cut on sunday at 7 O'clock",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a bowlcut. I would like to cut on sunday at 7 O'clock",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a bowlcut. My girlfriend really like that. Can we do it as soon as possible like sunday at 7:00 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a bowlcut. My girlfriend really like that. Can we do it as soon as possible like sunday at 7:00 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a bowlcut. My girlfriend really like that. Can we do it as soon as possible like sunday at 7:00 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a bowlcut. Can we do it at 7 O'clock on sunday.",
+        "value": [
+            "bowlcut",
+            "7 O'clock",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on sunday around 7 O'clock in the morning. I just need a bowlcut",
+        "value": [
+            "sunday",
+            "7 O'clock",
+            "bowlcut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a bowlcut. Same time as well, sunday at 7 pm. If 7 pm is not available, i can do 7 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 pm",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a bowlcut before sunday. Anytime in the afternoon like 7:00 pm is good",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "afternoon",
+            "7:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  7 pm tomorrow. He will be taking the usual a bowlcut",
+        "value": [
+            "7 pm",
+            "tomorrow",
+            "bowlcut"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a bowlcut. I am only available in the morning",
+        "value": [
+            "bowlcut",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week sunday the 7 i need bowlcut. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "sunday",
+            "bowlcut",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "7 pm on sunday is fine",
+        "value": [
+            "7 pm",
+            "sunday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a bowlcut at 7:00 pm on sunday",
+        "value": [
+            "bowlcut",
+            "7:00 pm",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week sunday at 7 pm for me. I want to take a fade and a bowlcut.",
+        "value": [
+            "sunday",
+            "7 pm",
+            "fade",
+            "bowlcut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a bowlcut. I am only available in the morning on sunday",
+        "value": [
+            "bowlcut",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a bowlcut at 7 pm on sunday",
+        "value": [
+            "bowlcut",
+            "7 pm",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a bowlcut on sunday at 7 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  7 pm tomorrow. He will be taking the usual bowlcut on sunday",
+        "value": [
+            "7 pm",
+            "bowlcut",
+            "sunday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want bowlcut. sunday is a good day to cut my hair at 7 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is sunday. I need a bowlcut at 7 pm",
+        "value": [
+            "sunday",
+            "bowlcut",
+            "7 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free sunday and i am looking for a haircut. I am thinking about a bowlcut. The time i want to cut it is 7 pm",
+        "value": [
+            "sunday",
+            "bowlcut",
+            "7 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "sunday is a good day to cut my hair. I want a bowlcut at 7 pm",
+        "value": [
+            "sunday",
+            "bowlcut",
+            "7 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week sunday i want to get a bowlcut at 7 pm",
+        "value": [
+            "sunday",
+            "bowlcut",
+            "7 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On sunday 13. I want to get a bowlcut at 7 pm",
+        "value": [
+            "sunday",
+            "bowlcut",
+            "7 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a bowlcut sunday at 7 pm",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on sunday at 7 pm for a bowlcut",
+        "value": [
+            "sunday",
+            "7 pm",
+            "bowlcut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "sunday coming is when i will take a bowlcut. The time i am free is 7 pm",
+        "value": [
+            "sunday",
+            "bowlcut",
+            "7 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "sunday is a good day",
+        "value": [
+            "sunday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a bowlcut hairstyle",
+        "value": [
+            "bowlcut"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on sunday",
+        "value": [
+            "sunday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "sunday can work for me",
+        "value": [
+            "sunday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a bowlcut haircut",
+        "value": [
+            "bowlcut"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a bowlcut tomorrow at 7 pm. If it's not available next sunday in the afternoon around 7",
+        "value": [
+            "bowlcut",
+            "7 pm",
+            "sunday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a bowlcut or taper. I can go for sunday or monday around 7 in the morning",
+        "value": [
+            "bowlcut",
+            "taper",
+            "sunday",
+            "monday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a bowlcut, nothing too fancy. will tomorrow around 7 in the afternoon work",
+        "value": [
+            "bowlcut",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a bowlcut or a taper. Anytime around 7 O'clock is fine on sunday.",
+        "value": [
+            "bowlcut",
+            "taper",
+            "7 O'clock",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a bowlcut on sunday in the morning at 7 or 7 pm?",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "morning",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a bowlcut on sunday. Can you create an appointment for me please. I am free in the morning so 7 pm to 8 pm can work for me",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "7 pm",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to bowlcut the side on sunday. Can you create an appointment for me please. I am free in the morning so 7 pm to 8 pm can work for me",
+        "value": [
+            "bowlcut",
+            "sunday",
+            "morning",
+            "8 pm",
+            "7 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week sunday at 7 pm for me. I have to fix my bowlcut and take a fade.",
+        "value": [
+            "sunday",
+            "7 pm",
+            "bowlcut",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a bowlcut at 7:00 pm on sunday",
+        "value": [
+            "bowlcut",
+            "7:00 pm",
+            "sunday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a taper at 8:00 pm",
+        "value": [
+            "taper",
+            "8:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a taper on monday at 8 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a taper at 8:00 pm on monday",
+        "value": [
+            "taper",
+            "8:00 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a taper. I would like to cut on monday at 8 O'clock",
+        "value": [
+            "taper",
+            "monday",
+            "8 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a taper. I would like to cut on monday at 8 O'clock",
+        "value": [
+            "taper",
+            "monday",
+            "8 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a taper. I would like to cut on monday at 8 O'clock",
+        "value": [
+            "taper",
+            "monday",
+            "8 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a taper. My girlfriend really like that. Can we do it as soon as possible like monday at 8:00 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a taper. My girlfriend really like that. Can we do it as soon as possible like monday at 8:00 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a taper. My girlfriend really like that. Can we do it as soon as possible like monday at 8:00 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a taper. Can we do it at 8 O'clock on monday.",
+        "value": [
+            "taper",
+            "8 O'clock",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on monday around 8 O'clock in the morning. I just need a taper",
+        "value": [
+            "monday",
+            "8 O'clock",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a taper. Same time as well, monday at 8 pm. If 8 pm is not available, i can do 8 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8 pm",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a taper before monday. Anytime in the afternoon like 8:00 pm is good",
+        "value": [
+            "taper",
+            "monday",
+            "afternoon",
+            "8:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  8 pm tomorrow. He will be taking the usual a taper",
+        "value": [
+            "8 pm",
+            "tomorrow",
+            "taper"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a taper. I am only available in the morning",
+        "value": [
+            "taper",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week monday the 8 i need taper. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "monday",
+            "taper",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "8 pm on monday is fine",
+        "value": [
+            "8 pm",
+            "monday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a taper at 8:00 pm on monday",
+        "value": [
+            "taper",
+            "8:00 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week monday at 8 pm for me. I want to take a fade and a taper.",
+        "value": [
+            "monday",
+            "8 pm",
+            "fade",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a taper. I am only available in the morning on monday",
+        "value": [
+            "taper",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a taper at 8 pm on monday",
+        "value": [
+            "taper",
+            "8 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a taper on monday at 8 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  8 pm tomorrow. He will be taking the usual taper on monday",
+        "value": [
+            "8 pm",
+            "taper",
+            "monday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want taper. monday is a good day to cut my hair at 8 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is monday. I need a taper at 8 pm",
+        "value": [
+            "monday",
+            "taper",
+            "8 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free monday and i am looking for a haircut. I am thinking about a taper. The time i want to cut it is 8 pm",
+        "value": [
+            "monday",
+            "taper",
+            "8 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "monday is a good day to cut my hair. I want a taper at 8 pm",
+        "value": [
+            "monday",
+            "taper",
+            "8 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week monday i want to get a taper at 8 pm",
+        "value": [
+            "monday",
+            "taper",
+            "8 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On monday 13. I want to get a taper at 8 pm",
+        "value": [
+            "monday",
+            "taper",
+            "8 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a taper monday at 8 pm",
+        "value": [
+            "taper",
+            "monday",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on monday at 8 pm for a taper",
+        "value": [
+            "monday",
+            "8 pm",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "monday coming is when i will take a taper. The time i am free is 8 pm",
+        "value": [
+            "monday",
+            "taper",
+            "8 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "monday is a good day",
+        "value": [
+            "monday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a taper hairstyle",
+        "value": [
+            "taper"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on monday",
+        "value": [
+            "monday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "monday can work for me",
+        "value": [
+            "monday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a taper haircut",
+        "value": [
+            "taper"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a taper tomorrow at 8 pm. If it's not available next monday in the afternoon around 8",
+        "value": [
+            "taper",
+            "8 pm",
+            "monday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a taper or fade. I can go for monday or tuesday around 8 in the morning",
+        "value": [
+            "taper",
+            "fade",
+            "monday",
+            "tuesday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a taper, nothing too fancy. will tomorrow around 8 in the afternoon work",
+        "value": [
+            "taper",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a taper or a fade. Anytime around 8 O'clock is fine on monday.",
+        "value": [
+            "taper",
+            "fade",
+            "8 O'clock",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a taper on monday in the morning at 8 or 8 pm?",
+        "value": [
+            "taper",
+            "monday",
+            "morning",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a taper on monday. Can you create an appointment for me please. I am free in the morning so 8 pm to 9 pm can work for me",
+        "value": [
+            "taper",
+            "monday",
+            "8 pm",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to taper the side on monday. Can you create an appointment for me please. I am free in the morning so 8 pm to 9 pm can work for me",
+        "value": [
+            "taper",
+            "monday",
+            "morning",
+            "9 pm",
+            "8 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week monday at 8 pm for me. I have to fix my taper and take a fade.",
+        "value": [
+            "monday",
+            "8 pm",
+            "taper",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a taper at 8:00 pm on monday",
+        "value": [
+            "taper",
+            "8:00 pm",
+            "monday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a fade at 9:00 pm",
+        "value": [
+            "fade",
+            "9:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a fade on tuesday at 9 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a fade at 9:00 pm on tuesday",
+        "value": [
+            "fade",
+            "9:00 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a fade. I would like to cut on tuesday at 9 O'clock",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a fade. I would like to cut on tuesday at 9 O'clock",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a fade. I would like to cut on tuesday at 9 O'clock",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a fade. My girlfriend really like that. Can we do it as soon as possible like tuesday at 9:00 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a fade. My girlfriend really like that. Can we do it as soon as possible like tuesday at 9:00 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a fade. My girlfriend really like that. Can we do it as soon as possible like tuesday at 9:00 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a fade. Can we do it at 9 O'clock on tuesday.",
+        "value": [
+            "fade",
+            "9 O'clock",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on tuesday around 9 O'clock in the morning. I just need a fade",
+        "value": [
+            "tuesday",
+            "9 O'clock",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a fade. Same time as well, tuesday at 9 pm. If 9 pm is not available, i can do 9 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 pm",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a fade before tuesday. Anytime in the afternoon like 9:00 pm is good",
+        "value": [
+            "fade",
+            "tuesday",
+            "afternoon",
+            "9:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  9 pm tomorrow. He will be taking the usual a fade",
+        "value": [
+            "9 pm",
+            "tomorrow",
+            "fade"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a fade. I am only available in the morning",
+        "value": [
+            "fade",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week tuesday the 9 i need fade. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "tuesday",
+            "fade",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "9 pm on tuesday is fine",
+        "value": [
+            "9 pm",
+            "tuesday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a fade at 9:00 pm on tuesday",
+        "value": [
+            "fade",
+            "9:00 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week tuesday at 9 pm for me. I want to take a taper and a fade.",
+        "value": [
+            "tuesday",
+            "9 pm",
+            "taper",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a fade. I am only available in the morning on tuesday",
+        "value": [
+            "fade",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a fade at 9 pm on tuesday",
+        "value": [
+            "fade",
+            "9 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a fade on tuesday at 9 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  9 pm tomorrow. He will be taking the usual fade on tuesday",
+        "value": [
+            "9 pm",
+            "fade",
+            "tuesday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want fade. tuesday is a good day to cut my hair at 9 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is tuesday. I need a fade at 9 pm",
+        "value": [
+            "tuesday",
+            "fade",
+            "9 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free tuesday and i am looking for a haircut. I am thinking about a fade. The time i want to cut it is 9 pm",
+        "value": [
+            "tuesday",
+            "fade",
+            "9 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "tuesday is a good day to cut my hair. I want a fade at 9 pm",
+        "value": [
+            "tuesday",
+            "fade",
+            "9 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week tuesday i want to get a fade at 9 pm",
+        "value": [
+            "tuesday",
+            "fade",
+            "9 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On tuesday 13. I want to get a fade at 9 pm",
+        "value": [
+            "tuesday",
+            "fade",
+            "9 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a fade tuesday at 9 pm",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on tuesday at 9 pm for a fade",
+        "value": [
+            "tuesday",
+            "9 pm",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "tuesday coming is when i will take a fade. The time i am free is 9 pm",
+        "value": [
+            "tuesday",
+            "fade",
+            "9 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "tuesday is a good day",
+        "value": [
+            "tuesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a fade hairstyle",
+        "value": [
+            "fade"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on tuesday",
+        "value": [
+            "tuesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "tuesday can work for me",
+        "value": [
+            "tuesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a fade haircut",
+        "value": [
+            "fade"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a fade tomorrow at 9 pm. If it's not available next tuesday in the afternoon around 9",
+        "value": [
+            "fade",
+            "9 pm",
+            "tuesday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a fade or taper. I can go for tuesday or wednesday around 9 in the morning",
+        "value": [
+            "fade",
+            "taper",
+            "tuesday",
+            "wednesday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a fade, nothing too fancy. will tomorrow around 9 in the afternoon work",
+        "value": [
+            "fade",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a fade or a taper. Anytime around 9 O'clock is fine on tuesday.",
+        "value": [
+            "fade",
+            "taper",
+            "9 O'clock",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a fade on tuesday in the morning at 9 or 9 pm?",
+        "value": [
+            "fade",
+            "tuesday",
+            "morning",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a fade on tuesday. Can you create an appointment for me please. I am free in the morning so 9 pm to 10 pm can work for me",
+        "value": [
+            "fade",
+            "tuesday",
+            "9 pm",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to fade the side on tuesday. Can you create an appointment for me please. I am free in the morning so 9 pm to 10 pm can work for me",
+        "value": [
+            "fade",
+            "tuesday",
+            "morning",
+            "10 pm",
+            "9 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week tuesday at 9 pm for me. I have to fix my fade and take a taper.",
+        "value": [
+            "tuesday",
+            "9 pm",
+            "fade",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a fade at 9:00 pm on tuesday",
+        "value": [
+            "fade",
+            "9:00 pm",
+            "tuesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a slick back at 10:00 pm",
+        "value": [
+            "slick back",
+            "10:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a slick back on wednesday at 10 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a slick back at 10:00 pm on wednesday",
+        "value": [
+            "slick back",
+            "10:00 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a slick back. I would like to cut on wednesday at 10 O'clock",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a slick back. I would like to cut on wednesday at 10 O'clock",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a slick back. I would like to cut on wednesday at 10 O'clock",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a slick back. My girlfriend really like that. Can we do it as soon as possible like wednesday at 10:00 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a slick back. My girlfriend really like that. Can we do it as soon as possible like wednesday at 10:00 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a slick back. My girlfriend really like that. Can we do it as soon as possible like wednesday at 10:00 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a slick back. Can we do it at 10 O'clock on wednesday.",
+        "value": [
+            "slick back",
+            "10 O'clock",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on wednesday around 10 O'clock in the morning. I just need a slick back",
+        "value": [
+            "wednesday",
+            "10 O'clock",
+            "slick back"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a slick back. Same time as well, wednesday at 10 pm. If 10 pm is not available, i can do 10 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 pm",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a slick back before wednesday. Anytime in the afternoon like 10:00 pm is good",
+        "value": [
+            "slick back",
+            "wednesday",
+            "afternoon",
+            "10:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  10 pm tomorrow. He will be taking the usual a slick back",
+        "value": [
+            "10 pm",
+            "tomorrow",
+            "slick back"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a slick back. I am only available in the morning",
+        "value": [
+            "slick back",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week wednesday the 10 i need slick back. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "wednesday",
+            "slick back",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "10 pm on wednesday is fine",
+        "value": [
+            "10 pm",
+            "wednesday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a slick back at 10:00 pm on wednesday",
+        "value": [
+            "slick back",
+            "10:00 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week wednesday at 10 pm for me. I want to take a taper and a slick back.",
+        "value": [
+            "wednesday",
+            "10 pm",
+            "taper",
+            "slick back"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a slick back. I am only available in the morning on wednesday",
+        "value": [
+            "slick back",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a slick back at 10 pm on wednesday",
+        "value": [
+            "slick back",
+            "10 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a slick back on wednesday at 10 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  10 pm tomorrow. He will be taking the usual slick back on wednesday",
+        "value": [
+            "10 pm",
+            "slick back",
+            "wednesday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want slick back. wednesday is a good day to cut my hair at 10 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is wednesday. I need a slick back at 10 pm",
+        "value": [
+            "wednesday",
+            "slick back",
+            "10 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free wednesday and i am looking for a haircut. I am thinking about a slick back. The time i want to cut it is 10 pm",
+        "value": [
+            "wednesday",
+            "slick back",
+            "10 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "wednesday is a good day to cut my hair. I want a slick back at 10 pm",
+        "value": [
+            "wednesday",
+            "slick back",
+            "10 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week wednesday i want to get a slick back at 10 pm",
+        "value": [
+            "wednesday",
+            "slick back",
+            "10 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On wednesday 13. I want to get a slick back at 10 pm",
+        "value": [
+            "wednesday",
+            "slick back",
+            "10 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a slick back wednesday at 10 pm",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on wednesday at 10 pm for a slick back",
+        "value": [
+            "wednesday",
+            "10 pm",
+            "slick back"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "wednesday coming is when i will take a slick back. The time i am free is 10 pm",
+        "value": [
+            "wednesday",
+            "slick back",
+            "10 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "wednesday is a good day",
+        "value": [
+            "wednesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a slick back hairstyle",
+        "value": [
+            "slick back"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on wednesday",
+        "value": [
+            "wednesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "wednesday can work for me",
+        "value": [
+            "wednesday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a slick back haircut",
+        "value": [
+            "slick back"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a slick back tomorrow at 10 pm. If it's not available next wednesday in the afternoon around 10",
+        "value": [
+            "slick back",
+            "10 pm",
+            "wednesday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a slick back or taper. I can go for wednesday or thursday around 10 in the morning",
+        "value": [
+            "slick back",
+            "taper",
+            "wednesday",
+            "thursday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a slick back, nothing too fancy. will tomorrow around 10 in the afternoon work",
+        "value": [
+            "slick back",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a slick back or a taper. Anytime around 10 O'clock is fine on wednesday.",
+        "value": [
+            "slick back",
+            "taper",
+            "10 O'clock",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a slick back on wednesday in the morning at 10 or 10 pm?",
+        "value": [
+            "slick back",
+            "wednesday",
+            "morning",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a slick back on wednesday. Can you create an appointment for me please. I am free in the morning so 10 pm to 11 pm can work for me",
+        "value": [
+            "slick back",
+            "wednesday",
+            "10 pm",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to slick back the side on wednesday. Can you create an appointment for me please. I am free in the morning so 10 pm to 11 pm can work for me",
+        "value": [
+            "slick back",
+            "wednesday",
+            "morning",
+            "11 pm",
+            "10 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week wednesday at 10 pm for me. I have to fix my slick back and take a taper.",
+        "value": [
+            "wednesday",
+            "10 pm",
+            "slick back",
+            "taper"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a slick back at 10:00 pm on wednesday",
+        "value": [
+            "slick back",
+            "10:00 pm",
+            "wednesday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a buzz cut at 11:00 pm",
+        "value": [
+            "buzz cut",
+            "11:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a buzz cut on thursday at 11 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a buzz cut at 11:00 pm on thursday",
+        "value": [
+            "buzz cut",
+            "11:00 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a buzz cut. I would like to cut on thursday at 11 O'clock",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a buzz cut. I would like to cut on thursday at 11 O'clock",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a buzz cut. I would like to cut on thursday at 11 O'clock",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a buzz cut. My girlfriend really like that. Can we do it as soon as possible like thursday at 11:00 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a buzz cut. My girlfriend really like that. Can we do it as soon as possible like thursday at 11:00 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a buzz cut. My girlfriend really like that. Can we do it as soon as possible like thursday at 11:00 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a buzz cut. Can we do it at 11 O'clock on thursday.",
+        "value": [
+            "buzz cut",
+            "11 O'clock",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on thursday around 11 O'clock in the morning. I just need a buzz cut",
+        "value": [
+            "thursday",
+            "11 O'clock",
+            "buzz cut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a buzz cut. Same time as well, thursday at 11 pm. If 11 pm is not available, i can do 11 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 pm",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a buzz cut before thursday. Anytime in the afternoon like 11:00 pm is good",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "afternoon",
+            "11:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  11 pm tomorrow. He will be taking the usual a buzz cut",
+        "value": [
+            "11 pm",
+            "tomorrow",
+            "buzz cut"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a buzz cut. I am only available in the morning",
+        "value": [
+            "buzz cut",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week thursday the 11 i need buzz cut. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "thursday",
+            "buzz cut",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "11 pm on thursday is fine",
+        "value": [
+            "11 pm",
+            "thursday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a buzz cut at 11:00 pm on thursday",
+        "value": [
+            "buzz cut",
+            "11:00 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week thursday at 11 pm for me. I want to take a fade and a buzz cut.",
+        "value": [
+            "thursday",
+            "11 pm",
+            "fade",
+            "buzz cut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a buzz cut. I am only available in the morning on thursday",
+        "value": [
+            "buzz cut",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a buzz cut at 11 pm on thursday",
+        "value": [
+            "buzz cut",
+            "11 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a buzz cut on thursday at 11 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  11 pm tomorrow. He will be taking the usual buzz cut on thursday",
+        "value": [
+            "11 pm",
+            "buzz cut",
+            "thursday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want buzz cut. thursday is a good day to cut my hair at 11 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is thursday. I need a buzz cut at 11 pm",
+        "value": [
+            "thursday",
+            "buzz cut",
+            "11 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free thursday and i am looking for a haircut. I am thinking about a buzz cut. The time i want to cut it is 11 pm",
+        "value": [
+            "thursday",
+            "buzz cut",
+            "11 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "thursday is a good day to cut my hair. I want a buzz cut at 11 pm",
+        "value": [
+            "thursday",
+            "buzz cut",
+            "11 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week thursday i want to get a buzz cut at 11 pm",
+        "value": [
+            "thursday",
+            "buzz cut",
+            "11 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On thursday 13. I want to get a buzz cut at 11 pm",
+        "value": [
+            "thursday",
+            "buzz cut",
+            "11 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a buzz cut thursday at 11 pm",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on thursday at 11 pm for a buzz cut",
+        "value": [
+            "thursday",
+            "11 pm",
+            "buzz cut"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "thursday coming is when i will take a buzz cut. The time i am free is 11 pm",
+        "value": [
+            "thursday",
+            "buzz cut",
+            "11 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "thursday is a good day",
+        "value": [
+            "thursday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a buzz cut hairstyle",
+        "value": [
+            "buzz cut"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on thursday",
+        "value": [
+            "thursday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "thursday can work for me",
+        "value": [
+            "thursday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a buzz cut haircut",
+        "value": [
+            "buzz cut"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a buzz cut tomorrow at 11 pm. If it's not available next thursday in the afternoon around 11",
+        "value": [
+            "buzz cut",
+            "11 pm",
+            "thursday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a buzz cut or fade. I can go for thursday or friday around 11 in the morning",
+        "value": [
+            "buzz cut",
+            "fade",
+            "thursday",
+            "friday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a buzz cut, nothing too fancy. will tomorrow around 11 in the afternoon work",
+        "value": [
+            "buzz cut",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a buzz cut or a fade. Anytime around 11 O'clock is fine on thursday.",
+        "value": [
+            "buzz cut",
+            "fade",
+            "11 O'clock",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a buzz cut on thursday in the morning at 11 or 11 pm?",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "morning",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a buzz cut on thursday. Can you create an appointment for me please. I am free in the morning so 11 pm to 12 pm can work for me",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "11 pm",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to buzz cut the side on thursday. Can you create an appointment for me please. I am free in the morning so 11 pm to 12 pm can work for me",
+        "value": [
+            "buzz cut",
+            "thursday",
+            "morning",
+            "12 pm",
+            "11 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week thursday at 11 pm for me. I have to fix my buzz cut and take a fade.",
+        "value": [
+            "thursday",
+            "11 pm",
+            "buzz cut",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a buzz cut at 11:00 pm on thursday",
+        "value": [
+            "buzz cut",
+            "11:00 pm",
+            "thursday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a side part at 12:00 pm",
+        "value": [
+            "side part",
+            "12:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I just need a side part on friday at 12 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a side part at 12:00 pm on friday",
+        "value": [
+            "side part",
+            "12:00 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I am thinking about a side part. I would like to cut on friday at 12 O'clock",
+        "value": [
+            "side part",
+            "friday",
+            "12 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a side part. I would like to cut on friday at 12 O'clock",
+        "value": [
+            "side part",
+            "friday",
+            "12 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am thinking about a side part. I would like to cut on friday at 12 O'clock",
+        "value": [
+            "side part",
+            "friday",
+            "12 O'clock"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a side part. My girlfriend really like that. Can we do it as soon as possible like friday at 12:00 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a side part. My girlfriend really like that. Can we do it as soon as possible like friday at 12:00 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I will go with a side part. My girlfriend really like that. Can we do it as soon as possible like friday at 12:00 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something funny like a side part. Can we do it at 12 O'clock on friday.",
+        "value": [
+            "side part",
+            "12 O'clock",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Hey, please create an appointment to cut my hair on friday around 12 O'clock in the morning. I just need a side part",
+        "value": [
+            "friday",
+            "12 O'clock",
+            "side part"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my son needs a hair cut. He will be taking the usually cut, a side part. Same time as well, friday at 12 pm. If 12 pm is not available, i can do 12 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12 pm",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "I need a side part before friday. Anytime in the afternoon like 12:00 pm is good",
+        "value": [
+            "side part",
+            "friday",
+            "afternoon",
+            "12:00 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut at  12 pm tomorrow. He will be taking the usual a side part",
+        "value": [
+            "12 pm",
+            "tomorrow",
+            "side part"
+        ],
+        "type": [
+            "time",
+            "dayofweek",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs to cut. When is the earliest i can have a side part. I am only available in the morning",
+        "value": [
+            "side part",
+            "earliest",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week friday the 12 i need side part. Anytime is good for me, but I prefer the afternoon",
+        "value": [
+            "Next week",
+            "friday",
+            "side part",
+            "afternoon",
+            "Anytime"
+        ],
+        "type": [
+            "dayofweek",
+            "dayofweek",
+            "haircut_style",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "12 pm on friday is fine",
+        "value": [
+            "12 pm",
+            "friday"
+        ],
+        "type": [
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a side part at 12:00 pm on friday",
+        "value": [
+            "side part",
+            "12:00 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week friday at 12 pm for me. I want to take a fade and a side part.",
+        "value": [
+            "friday",
+            "12 pm",
+            "fade",
+            "side part"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "my hair needs a trim. When is the earliest i can have a side part. I am only available in the morning on friday",
+        "value": [
+            "side part",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I would like a side part at 12 pm on friday",
+        "value": [
+            "side part",
+            "12 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "I just need a side part on friday at 12 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "My son need a haircut_style at  12 pm tomorrow. He will be taking the usual side part on friday",
+        "value": [
+            "12 pm",
+            "side part",
+            "friday"
+        ],
+        "type": [
+            "time",
+            "haircut_style",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i want side part. friday is a good day to cut my hair at 12 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "The day i want to cut my hair is friday. I need a side part at 12 pm",
+        "value": [
+            "friday",
+            "side part",
+            "12 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I am free friday and i am looking for a haircut. I am thinking about a side part. The time i want to cut it is 12 pm",
+        "value": [
+            "friday",
+            "side part",
+            "12 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "friday is a good day to cut my hair. I want a side part at 12 pm",
+        "value": [
+            "friday",
+            "side part",
+            "12 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "Next week friday i want to get a side part at 12 pm",
+        "value": [
+            "friday",
+            "side part",
+            "12 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "On friday 13. I want to get a side part at 12 pm",
+        "value": [
+            "friday",
+            "side part",
+            "12 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "I will take a side part friday at 12 pm",
+        "value": [
+            "side part",
+            "friday",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I am going to the barber on friday at 12 pm for a side part",
+        "value": [
+            "friday",
+            "12 pm",
+            "side part"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "friday coming is when i will take a side part. The time i am free is 12 pm",
+        "value": [
+            "friday",
+            "side part",
+            "12 pm"
+        ],
+        "type": [
+            "dayofweek",
+            "haircut_style",
+            "time"
+        ]
+    },
+    {
+        "question": "friday is a good day",
+        "value": [
+            "friday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i would like a side part hairstyle",
+        "value": [
+            "side part"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I am free on friday",
+        "value": [
+            "friday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "friday can work for me",
+        "value": [
+            "friday"
+        ],
+        "type": [
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "i need a side part haircut",
+        "value": [
+            "side part"
+        ],
+        "type": [
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I need a trim and a side part tomorrow at 12 pm. If it's not available next friday in the afternoon around 12",
+        "value": [
+            "side part",
+            "12 pm",
+            "friday",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "Can you give me a side part or fade. I can go for friday or saturday around 12 in the morning",
+        "value": [
+            "side part",
+            "fade",
+            "friday",
+            "saturday",
+            "morning"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "dayofweek",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "I just want a side part, nothing too fancy. will tomorrow around 12 in the afternoon work",
+        "value": [
+            "side part",
+            "tomorrow",
+            "afternoon"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time"
+        ]
+    },
+    {
+        "question": "i am looking for something different like a side part or a fade. Anytime around 12 O'clock is fine on friday.",
+        "value": [
+            "side part",
+            "fade",
+            "12 O'clock",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    },
+    {
+        "question": "can i have a side part on friday in the morning at 12 or 12 pm?",
+        "value": [
+            "side part",
+            "friday",
+            "morning",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would a side part on friday. Can you create an appointment for me please. I am free in the morning so 12 pm to 1 pm can work for me",
+        "value": [
+            "side part",
+            "friday",
+            "12 pm",
+            "1 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Hey, I would to side part the side on friday. Can you create an appointment for me please. I am free in the morning so 12 pm to 1 pm can work for me",
+        "value": [
+            "side part",
+            "friday",
+            "morning",
+            "1 pm",
+            "12 pm"
+        ],
+        "type": [
+            "haircut_style",
+            "dayofweek",
+            "time",
+            "time",
+            "time"
+        ]
+    },
+    {
+        "question": "Please create an appointment next week friday at 12 pm for me. I have to fix my side part and take a fade.",
+        "value": [
+            "friday",
+            "12 pm",
+            "side part",
+            "fade"
+        ],
+        "type": [
+            "dayofweek",
+            "time",
+            "haircut_style",
+            "haircut_style"
+        ]
+    },
+    {
+        "question": "I would like a side part at 12:00 pm on friday",
+        "value": [
+            "side part",
+            "12:00 pm",
+            "friday"
+        ],
+        "type": [
+            "haircut_style",
+            "time",
+            "dayofweek"
+        ]
+    }
+]

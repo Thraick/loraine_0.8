@@ -1,0 +1,16 @@
+[
+  {
+    "state": "soc",
+    "response": [
+      "Hey {{name}}, How can I help you?",
+      "Welcome {{name}}. How are you?"
+    ],
+    "extracted_item": {
+      "name": [
+        "Please enter your name",
+        "I will need your name before we continue."
+      ]
+    },
+    "service_price": "services_price.json"
+  }
+]

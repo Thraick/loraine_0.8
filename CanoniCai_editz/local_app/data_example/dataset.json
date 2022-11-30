@@ -1,0 +1,25 @@
+[
+  {
+    "context": "I would like a mohawk on sunday at 1 pm.",
+    "entities": [
+      {
+        "entity_value": "mohawk",
+        "entity_type": "haircut_style",
+        "start_index": 15,
+        "end_index": 21
+      },
+      {
+        "entity_value": "sunday",
+        "entity_type": "dayofweek",
+        "start_index": 25,
+        "end_index": 31
+      },
+      {
+        "entity_value": "1 pm",
+        "entity_type": "time",
+        "start_index": 35,
+        "end_index": 39
+      }
+    ]
+  }
+]

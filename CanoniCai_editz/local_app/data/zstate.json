@@ -1,0 +1,106 @@
+[
+    {
+        "state": "soc",
+        "response": [
+            "Hello, How can I help you?",
+            "Hey, How are you?",
+            "Welcome",
+            "Hey",
+            "Hello"
+        ],
+        "res_value": [],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "appointment",
+        "response": [
+            "Okay, You would like a {{haircut_style}} on {{dayofweek}} at {{time}}. Is that correct?",
+            "You want to create an appointment on {{dayofweek}} at {{time}} for a {{haircut_style}}, right?"
+        ],
+        "extracted_item": {
+            "haircut_style": [
+                "What type of haircut would you like?",
+                "Please provide the hairstyle you are looking for"
+            ],
+            "dayofweek": [
+                "Please enter a date to create the appointment",
+                "Which day are you looking for?"
+            ],
+            "time": [
+                "What time would you like to cut you hair?",
+                "Please enter a time to create the appointment"
+            ]
+        },
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "appointment_confirmation",
+        "response": [
+            "An appointment was created on the {{dayofweek}} at {{time}} for {{haircut_style}}.",
+            "An appointment was created for a {{haircut_style}} on {{dayofweek}} at {{time}}."
+        ],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "appointment_denial",
+        "response": [
+            "Is there anything else I can help you with?",
+            "Cool. Is there anything else I can help you with?"
+        ],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "cost",
+        "response": [
+            "The cost for a {{haircut_style}} is {{cost}}.",
+            "The price for a {{haircut_style}} is {{cost}}."
+        ],
+        "extracted_item": {
+            "haircut_style": [
+                "Please provide the hairstyle you are requesting the quotation for",
+                "Which hairstyle do you want to know the cost for?"
+            ]
+        },
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "eoc",
+        "response": [
+            "Later",
+            "Good Bye"
+        ],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "appointment_cancel",
+        "response": [
+            "You want to cancel your appointment on {{htime}}",
+            "You want to cancel your appointment with us on {{htime}}"
+        ],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "cancel_confirmation",
+        "response": [
+            "Your appointment was canceled",
+            "It's cancel"
+        ],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    },
+    {
+        "state": "cancel_denial",
+        "response": [
+            "Okay, Is there anything else I can assist you with?",
+            "No problem"
+        ],
+        "extracted_item": {},
+        "service_price": "services_price.json"
+    }
+]
+
